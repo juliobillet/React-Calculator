@@ -1,9 +1,9 @@
 import logo from './logo.svg';
-import './App.css';
+import './calculator.css';
 
-function App() {
+function Calculator() {
   return (
-    <div className="App">
+    <div className="calculator">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -22,4 +22,4 @@ function App() {
   );
 }
 
-export default App;
+export default Calculator;
