@@ -6,7 +6,10 @@ function Calculator() {
     <div className="calculator">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Olá, Mundo!</h1>
+        <h1>Olá, Mundo!!! :D</h1>
+        <div class="jumbotron">
+          <p>HI!</p>
+        </div>
       </header>
     </div>
   );
