@@ -9,6 +9,9 @@ To access the app and try it, [click here](https://juliobillet.github.io/React-C
 ## Contact me
 
 If you want to get in contact with me, please do!
+
 [Instagram](https://www.instagram.com/juliobillet/).
+
 [Twitter](https://twitter.com/juliobillet).
+
 [LinkedIn](https://www.linkedin.com/in/juliobillet/).
